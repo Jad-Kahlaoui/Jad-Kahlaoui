@@ -10,7 +10,7 @@
 
 | Domaine | Technologies |
 |---|---|
-| Langages | C, Python, JavaScript, PHP, SQL, Bash, HTML / CSS |
+| Langages | C, Python, JavaScript, PHP, SQL, Prolog, Bash, HTML / CSS |
 | Bases de données | PostgreSQL, MySQL, MongoDB, modélisation relationnelle (MCD / MLD, normalisation) |
 | IA & algorithmique | Minimax et élagage alpha-bêta, structures de données, réseaux de neurones |
 | Web & outils | Node.js, Express, Git, Linux, VBA |
