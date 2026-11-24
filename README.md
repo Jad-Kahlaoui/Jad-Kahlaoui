@@ -13,7 +13,7 @@
 | Langages | C, Python, JavaScript, PHP, SQL, Prolog, Bash, HTML / CSS |
 | Bases de données | PostgreSQL, MySQL, MongoDB, modélisation relationnelle (MCD / MLD, normalisation) |
 | IA & algorithmique | Minimax et élagage alpha-bêta, structures de données, réseaux de neurones |
-| Web & outils | Node.js, Express, Git, Linux, VBA |
+| Web & outils | Node.js, Express, Git, Linux, VBA, Regex |
 | Cybersécurité | Durcissement Linux, PKI et certificats (OpenSSL), chiffrement LUKS |
 | Systèmes embarqués | Arduino, Node-RED |
 | Conception | Modélisation UML, cas d'utilisation |
